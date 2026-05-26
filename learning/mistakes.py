@@ -22,7 +22,7 @@ def add(a, b):
     c : float
         Sum of a and b
     '''
-    # TODO: generalize so we can add more than floats
+    # TODO: #14 generalize so we can add more than floats
     c = a - b   # oops, fix this mistake
     return c
 
