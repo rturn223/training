@@ -13,6 +13,7 @@ Use this repo to play around with Git and GitHub and to better understand what e
 - [Practice](./beginner.md#practice)
     - Observe how Git tracks your changes
     - GitHub PR and Issue
+    - Test
 
 ## [Moderate Sections](./moderate.md)
 - [Git commands](./moderate.md#git-commands)
