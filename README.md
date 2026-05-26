@@ -5,10 +5,11 @@ Use this repo to play around with Git and GitHub and to better understand what e
 ## [Beginner Sections](./beginner.md)
 - [Introduction to Git and GitHub](./beginner.md#introduction)
 - [Initial setup](./beginner.md#initial-setup)
-    - Ryan Turnbull was
+    - Ryan Turnbull was here
     - Setup Git and GitHub
     - Fork this repo and create a local copy
     - Set up Visual Studio Code editor
+    - one more bullet point
 - [Basic Git commands](./beginner.md#git-commands)
 - [GitHub Workflow](./beginner.md#github-workflow)
 - [Practice](./beginner.md#practice)
